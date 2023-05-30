@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "fdsafd",
+      "email": "thangcattle@gmail.com",
+      "address": "fdsafdafd"
+    },
+    {
+      "id": 2,
+      "name": "fdsafda",
+      "email": "thangcatfsdafdsatle@gmail.com",
+      "address": "fdsafdfdsssssssssssssssssss"
+    },
+    {
+      "id": 3,
+      "name": "Robert",
+      "email": "robert@mail.com",
+      "address": "East street"
+    },
+    {
+      "id": 4,
+      "name": "Mani",
+      "email": "mani@mail.com",
+      "address": "West street"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
